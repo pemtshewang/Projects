@@ -1,3 +1,4 @@
+#Author - Bhutanese-Bot @ CST   
 from art import tprint
 from sys import exit
 import random
